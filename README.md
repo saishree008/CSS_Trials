@@ -1,2 +1,2 @@
 # CSS_Trials
-CSS trials &amp; tricks dump
+Mostly includes CSS3 simplified examples.
